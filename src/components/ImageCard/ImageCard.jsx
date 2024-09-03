@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import css from '../ImageCard/imageCard.module.css';
+import css from '../ImageCard/ImageCard.module.css';
 
 export default function ImageCard({ image, onImageClick }) {
   const { urls, alt_description } = image;
