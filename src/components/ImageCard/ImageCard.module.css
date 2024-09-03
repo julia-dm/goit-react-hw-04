@@ -1,0 +1,17 @@
+.image{
+    display: block;
+    object-fit: cover;
+    border-radius: 8px;
+   
+}
+.description {
+    display: flex;
+    justify-content: space-between;
+    padding: 4px 26px;
+    border-bottom: 1px solid #808080;
+    border-left: 1px solid #808080;
+    border-right: 1px solid #808080;
+    width: 360px;
+    height: 48px;
+  }
+  

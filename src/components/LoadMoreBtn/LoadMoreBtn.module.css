@@ -1,0 +1,21 @@
+.btnMore {
+    margin-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    padding: 8px 16px;
+    width: 125px;
+    height: 40px;
+    background: #4e75ff;
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: inherit;
+    letter-spacing: inherit;
+    color: #fff;
+  }
+  
+  .btnMore:hover {
+    background: #6c8cff;
+  }
